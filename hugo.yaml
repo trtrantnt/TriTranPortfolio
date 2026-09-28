@@ -1,4 +1,4 @@
-baseURL: https://trtrantnt.github.io
+baseURL: https://trtrantnt.github.io/TriTranPortfolio/
 
 languageCode: en
 title: "Tri's Blog"
@@ -25,11 +25,11 @@ languages:
     languageName: English
     title: "Tri's Blog"
     weight: 1
-  vn:
-    languageCode: vn
-    languageName: Tiếng Việt
-    title: "Tri's Blog"
-    weight: 2
+  # vn:
+  #   languageCode: vn
+  #   languageName: Tiếng Việt
+  #   title: "Tri's Blog"
+  #   weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/trtrantnt/TriTranBlog
+  gitRepo: https://github.com/trtrantnt/TriTranPortfolio
   # Default branch of your Git repo
   gitBranch: main
 

@@ -31,7 +31,7 @@ projects:
   logo: /images/sections/projects/portfolio-website.png
   role: Owner
   timeline: "Jun 2024 - Present"
-  repo: https://github.com/trtrantnt/TriTranBlog
+  repo: https://github.com/trtrantnt/TriTranPortfolio
   summary: A personal portfolio website to showcase projects and skills, built with HTML, CSS, and JavaScript.
   tags: ["hobby", "frontend", "portfolio"]
 

@@ -1,4 +1,4 @@
-module github.com/trtrantnt/TriTranBlog
+module github.com/trtrantnt/TriTranPortfolio
 
 go 1.21
 
