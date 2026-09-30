@@ -15,13 +15,12 @@ degrees:
   timeframe: 2020-2024
   institution:
     name: HUTECH University
-    url: "https://www.hutech.edu.vn/"
     logo: /images/sections/education/hutech-logo.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/hutech-logo-dark.jpg
   grade: #(optional)
     scale: CGPA
-    achieved: 3.4
+    achieved: 3.35
     outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.

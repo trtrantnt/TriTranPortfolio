@@ -12,7 +12,7 @@ designation: IT Student
 # your university information
 company:
   name: HUTECH
-  url: "https://www.hutech.edu.vn/"
+  url: 
 
 # a summary about you
 summary: 'I am an enthusiastic IT student with a strong passion for learning and developing skills in software engineering, networking, and database management. I am currently working on various projects to enhance my expertise and contribute to innovative solutions.'
@@ -32,9 +32,6 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/trigondc/"
 
 
 # You can put custom buttons to link your relevant resources.
